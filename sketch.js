@@ -26,8 +26,8 @@ function draw(){
   let width = 16;
   let interval = padding + width;
 
-  for(let i = 0; i < canvasX; i += interval){
-    for(let j = 0; j < canvasY; j += interval){
+  for(let i = 40; i < canvasX - 40; i += interval){
+    for(let j = 40; j < canvasY - 40; j += interval){
       randSum += (i / interval) * randStep;
       let rotation = randPositiveAndNegative(randSum);
       let xNoise = randPositiveAndNegative(randSum);
