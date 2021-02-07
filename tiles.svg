@@ -1,0 +1,78 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100"
+  height="100" viewBox="0 0 100 100">
+  <defs></defs>
+  <g transform="scale(1,1) scale(1,1)">
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 0 12.5 C 6.903558749999999 12.5 12.5 18.09644125 12.5 25" stroke-linecap="round" stroke-miterlimit="10">
+    </path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 25 12.5 C 18.09644125 12.5 12.5 6.903558749999999 12.5 0" stroke-linecap="round" stroke-miterlimit="10">
+    </path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 12.5 25 C 12.5 31.90355875 6.903558749999999 37.5 0 37.5" stroke-linecap="round" stroke-miterlimit="10">
+    </path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 12.5 50 C 12.5 43.09644125 18.09644125 37.5 25 37.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 0 62.5 C 6.903558749999999 62.5 12.5 68.09644125 12.5 75" stroke-linecap="round" stroke-miterlimit="10">
+    </path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 25 62.5 C 18.09644125 62.5 12.5 56.90355875 12.5 50" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 12.5 75 C 12.5 81.90355875 6.903558749999999 87.5 0 87.5" stroke-linecap="round" stroke-miterlimit="10">
+    </path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 12.5 100 C 12.5 93.09644125 18.09644125 87.5 25 87.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 37.5 0 C 37.5 6.903558749999999 31.90355875 12.5 25 12.5" stroke-linecap="round" stroke-miterlimit="10">
+    </path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 37.5 25 C 37.5 18.09644125 43.09644125 12.5 50 12.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 25 37.5 C 31.90355875 37.5 37.5 43.09644125 37.5 50" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 50 37.5 C 43.09644125 37.5 37.5 31.90355875 37.5 25" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 37.5 50 C 37.5 56.90355875 31.90355875 62.5 25 62.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 37.5 75 C 37.5 68.09644125 43.09644125 62.5 50 62.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 25 87.5 C 31.90355875 87.5 37.5 93.09644125 37.5 100" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 50 87.5 C 43.09644125 87.5 37.5 81.90355875 37.5 75" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 50 12.5 C 56.90355875 12.5 62.5 18.09644125 62.5 25" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 75 12.5 C 68.09644125 12.5 62.5 6.903558749999999 62.5 0" stroke-linecap="round" stroke-miterlimit="10">
+    </path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 50 37.5 C 56.90355875 37.5 62.5 43.09644125 62.5 50" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 75 37.5 C 68.09644125 37.5 62.5 31.90355875 62.5 25" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 50 62.5 C 56.90355875 62.5 62.5 68.09644125 62.5 75" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 75 62.5 C 68.09644125 62.5 62.5 56.90355875 62.5 50" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 50 87.5 C 56.90355875 87.5 62.5 93.09644125 62.5 100" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 75 87.5 C 68.09644125 87.5 62.5 81.90355875 62.5 75" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 75 12.5 C 81.90355875 12.5 87.5 18.09644125 87.5 25" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 100 12.5 C 93.09644125 12.5 87.5 6.903558749999999 87.5 0" stroke-linecap="round" stroke-miterlimit="10">
+    </path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 75 37.5 C 81.90355875 37.5 87.5 43.09644125 87.5 50" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 100 37.5 C 93.09644125 37.5 87.5 31.90355875 87.5 25" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 75 62.5 C 81.90355875 62.5 87.5 68.09644125 87.5 75" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 100 62.5 C 93.09644125 62.5 87.5 56.90355875 87.5 50" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 87.5 75 C 87.5 81.90355875 81.90355875 87.5 75 87.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+    <path fill="none" stroke="#000000" paint-order="fill stroke markers"
+      d=" M 87.5 100 C 87.5 93.09644125 93.09644125 87.5 100 87.5" stroke-linecap="round" stroke-miterlimit="10"></path>
+  </g>
+</svg>
